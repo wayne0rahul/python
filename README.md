@@ -31,6 +31,7 @@ Session 5 - Tuples + Sets + Dictionary](https://colab.research.google.com/drive/
 
 [Session 13 - Numpy Fundamentals](https://colab.research.google.com/drive/1GEkNfxnCPfzX8TCymkZJvWbkpGKZRgiK?usp=sharing)
 
+[Session 13 - Numpy Fundamentals](https://colab.research.google.com/drive/1GEkNfxnCPfzX8TCymkZJvWbkpGKZRgiK?usp=sharing)
 
 [Session 11 - Exception Handling & Modules and Packages](https://colab.research.google.com/drive/1-yYl5wagPH1ctS_x-RBDyMFj-ez8hWvS?usp=sharing)
 
