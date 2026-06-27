@@ -29,11 +29,9 @@ Session 5 - Tuples + Sets + Dictionary](https://colab.research.google.com/drive/
 
 [Session 10 - File Handling + Serialization & Deserialization](https://colab.research.google.com/drive/1TP7ks1pnEzJwwzHtswkSYvMWwo2HeRxM?usp=sharing)
 
-[Session 13 - Numpy Fundamentals](https://colab.research.google.com/drive/1GEkNfxnCPfzX8TCymkZJvWbkpGKZRgiK?usp=sharing)
-
-[Session 13 - Numpy Fundamentals](https://colab.research.google.com/drive/1GEkNfxnCPfzX8TCymkZJvWbkpGKZRgiK?usp=sharing)
-
 [Session 11 - Exception Handling & Modules and Packages](https://colab.research.google.com/drive/1-yYl5wagPH1ctS_x-RBDyMFj-ez8hWvS?usp=sharing)
 
 [Session 12 - Decorators & Namespaces](https://colab.research.google.com/drive/1P5jtGzaVkIjEFFr6WSrzs0capal32QPn?usp=sharing)
+
+[Session 13 - Numpy Fundamentals](https://colab.research.google.com/drive/1GEkNfxnCPfzX8TCymkZJvWbkpGKZRgiK?usp=sharing)
 
