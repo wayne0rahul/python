@@ -35,3 +35,11 @@ Session 5 - Tuples + Sets + Dictionary](https://colab.research.google.com/drive/
 
 [Session 13 - Numpy Fundamentals](https://colab.research.google.com/drive/1GEkNfxnCPfzX8TCymkZJvWbkpGKZRgiK?usp=sharing)
 
+[Session 14 - Advanced Numpy](https://colab.research.google.com/drive/1RVe07-2VU4Jft8GLFyf10PrQIOVfffaR?usp=sharing)
+
+[Session 15 - Numpy Tricks](https://colab.research.google.com/drive/1PUW-yXxbkSYgvlhC5_zf30aOVyKYo9AC?usp=sharing)
+
+[Session 16 - Pandas Series](https://colab.research.google.com/drive/1Te483lmZDDKzzU0YFnuHiSy87AHquJKF?usp=sharing)
+
+[Session 17 - Pandas DataFrame](https://colab.research.google.com/drive/1Te483lmZDDKzzU0YFnuHiSy87AHquJKF?usp=sharing)
+
