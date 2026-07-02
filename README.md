@@ -41,5 +41,5 @@ Session 5 - Tuples + Sets + Dictionary](https://colab.research.google.com/drive/
 
 [Session 16 - Pandas Series](https://colab.research.google.com/drive/1Te483lmZDDKzzU0YFnuHiSy87AHquJKF?usp=sharing)
 
-[Session 17 - Pandas DataFrame](https://colab.research.google.com/drive/1Te483lmZDDKzzU0YFnuHiSy87AHquJKF?usp=sharing)
+[Session 17 - Pandas DataFrame](https://colab.research.google.com/drive/1k_CV931NE4_jMxmu3k2ASPMmIA4g5Wcn?usp=sharing)
 
